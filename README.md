@@ -47,6 +47,3 @@ run and get with postman
 ![image](https://user-images.githubusercontent.com/83266822/156327009-de839c7d-0c0b-4e04-87c1-fdd57a89402a.png)
 
 sucess!
-
-
-		c.JSON(200, gin.H{
