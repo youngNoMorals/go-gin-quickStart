@@ -24,3 +24,29 @@ step5: push ur code to master orgin
 ![image](https://user-images.githubusercontent.com/83266822/156321837-cc25626b-aa6e-49a7-bf87-71648c0bcd5c.png)
 
 ![image](https://user-images.githubusercontent.com/83266822/156321868-dc75930b-b343-49bf-9b08-232724b59416.png)
+
+
+#go gin quick start#
+
+a simple main.go
+
+func main() {
+	r := gin.Default()
+	r.GET("/ping", func(c *gin.Context) {
+		c.JSON(200, gin.H{
+			"message": "pong",
+		})
+	})
+	r.Run() // listen and serve on 0.0.0.0:8080 (for windows "localhost:8080")
+}
+
+run and get with postman
+
+![image](https://user-images.githubusercontent.com/83266822/156326962-d969fd5c-2328-4155-80d4-25aaa34f1c85.png)
+
+![image](https://user-images.githubusercontent.com/83266822/156327009-de839c7d-0c0b-4e04-87c1-fdd57a89402a.png)
+
+sucess!
+
+
+		c.JSON(200, gin.H{
