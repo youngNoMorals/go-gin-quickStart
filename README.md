@@ -21,3 +21,6 @@ step4: build relationships between local branch and orgin one on github
 
 step5: push ur code to master orgin
 
+![image](https://user-images.githubusercontent.com/83266822/156321837-cc25626b-aa6e-49a7-bf87-71648c0bcd5c.png)
+
+![image](https://user-images.githubusercontent.com/83266822/156321868-dc75930b-b343-49bf-9b08-232724b59416.png)
