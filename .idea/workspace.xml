@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1a6303f-dffc-46b5-9383-c1b1124bb4cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gin/cmd/test-gin-rest/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/gin/cmd/test-gin-rest/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
